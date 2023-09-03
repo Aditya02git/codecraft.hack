@@ -285,7 +285,7 @@ content: "Lets Code Together (⌐■_■)";
 .circle-container {
     width: 200px;
     height: 200px;
-    background-image: url('/circle.svg');
+    background-image: url('./circle.svg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;
